@@ -25,8 +25,8 @@ export const Card = ({ searchQuery }: any) => {
           <div className="p-6 ">
             <div className="flex items-center gap-4">
               <h2 className="font-play font-medium text-xl">{item?.title}</h2>
-              <div className="h-4 w-[2px] bg-[#F4F4F4]"></div>
-              <p className="text-xs">126 PHOTOS</p>
+              {/* <div className="h-4 w-[2px] bg-[#F4F4F4]"></div> */}
+              <p className="text-xs">128 PHOTOS</p>
             </div>
           </div>
         </div>
